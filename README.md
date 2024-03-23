@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayarcher
 - 👀 I am hoping to be a life long learner.
-- I am betting Generative AI is not anywhere near AGI
+-  I am betting Generative AI is not anywhere near AGI
   
 
 <!---
