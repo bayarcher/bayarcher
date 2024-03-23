@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bayarcher
 - 👀 I am hoping to be a life long learner.
-- 🌱 I’m currently learning blockchain.
+- I am betting Generative AI is not anywhere near AGI
+  
 
 <!---
 bayarcher/bayarcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
